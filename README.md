@@ -29,22 +29,18 @@ I love turning ideas into functioning systems that are fast, clean, scalable, an
 #### **HR Power BI Dashboard**  
 A Human Resources dashboard helping businesses gain **actionable workforce insights**.  
 **Tech:** Power BI • DAX • Data Visualization  
-➡️ *View Project*
 
 #### **Student Performance Dashboard**  
 A student analytics dashboard to help schools understand and improve student outcomes.  
 **Tech:** Power BI • DAX • Data Visualization  
-➡️ *View Project*
 
 #### **Marketing Data Analysis for Tourism**  
 A machine learning system that analyzes weekly news to generate **actionable marketing insights**.  
 **Tech:** Python • Scikit-learn • Pandas • ML  
-➡️ *View Project*
 
 #### **Wave & Storm Tide Analysis**  
 Forecasts flooding risk and timing at Surfers Paradise using wave and tide threshold models.  
 **Tech:** Python • Pandas  
-➡️ *View Project*
 
 ---
 
@@ -53,12 +49,10 @@ Forecasts flooding risk and timing at Surfers Paradise using wave and tide thres
 ### **AI Expenses Automation Demo**  
 Automatically classifies and organizes expense-related emails using **Gemini AI**, improving financial workflows.  
 **Tech:** AI • Gemini • AppScript • Google Sheets • Google Drive  
-➡️ *View Project*
 
 ### **E-commerce Platform**  
 A full-featured e-commerce system with secure authentication and product management.  
 **Tech:** Python • Flask • Djingo • PostgreSQL • Supabase • Bootstrap  
-➡️ *View Project*
 
 ---
 
@@ -66,20 +60,16 @@ A full-featured e-commerce system with secure authentication and product managem
 
 ### **Online MCQ Platform**  
 Create and take MCQs with **real-time scoring and analytics**.  
-➡️ *View Project*
 
 ### **Scout Online Camping Platform**  
 A platform for scouts to organize, register, and manage camping events.  
-➡️ *View Project*
 
 ### **Predict HKDSE Grade**  
 ML-powered prediction tool for HKDSE exam grades based on user input.  
-➡️ *View Project*
 
 ### **Count Down Timer**  
 React-based countdown timer for events, exams, and productivity.  
 **Tech:** NextJS  
-➡️ *View Project*
 
 ---
 
@@ -88,12 +78,10 @@ React-based countdown timer for events, exams, and productivity.
 ### **School Anniversary Web Page**  
 Static website celebrating a school's anniversary with event info and multimedia content.  
 **Tech:** HTML • CSS • JavaScript  
-➡️ *View Project*
 
 ### **Digital Ceremony Programme**  
 A digital programme for ceremonies including schedules and guest information.  
 **Tech:** HTML • CSS • JavaScript  
-➡️ *View Project*
 
 ---
 
@@ -136,6 +124,6 @@ Let’s connect!
 
 🔗 LinkedIn: https://www.linkedin.com/in/claytonma/  
 🐙 GitHub: https://github.com/Clayton-Ma  
-📍 Brisbane, Australia  
+📍 Australia  
 
 ---
