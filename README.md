@@ -1,129 +1,151 @@
-# 👋 Hello World, I'm Clayton
+<div align="center">
 
-### 🎓 Master of Data Science  
-### 🧠 Data Analyst • AI Automation Enthusiast  
-### 💻 Software Developer • Web App Builder
+# Hey, I'm Clayton 👋
 
-[🌐 View My Portfolio](https://clayton-ma.vercel.app/) • [🔗 LinkedIn](https://www.linkedin.com/in/claytonma/) • [🐙 GitHub](https://github.com/Clayton-Ma)  
-📍 Australia  
+### Data Scientist · Machine Learning & Process Analytics
 
----
+*I turn messy data into decisions.*
 
-## 🚀 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-clayton--ma.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://clayton-ma.vercel.app/)
+[![Project Island](https://img.shields.io/badge/🏝️_Project_Island-Explore-0ea5e9?style=for-the-badge)](https://clayton-ma.vercel.app/island)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-claytonma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claytonma/)
 
-I’m passionate about building **modern web applications**, **automation solutions**, and **data-driven systems**.  
-My work spans across:
+📍 Australia ⇄ Hong Kong · 🎓 Master of Data Science, QUT
 
-- **Full Stack Development** (JavaScript, ReactJS, NextJS, Flask, SQL)  
-- **Data Analysis & Machine Learning** (Python, R, Power BI)  
-- **AI Automation** (Gemini AI, AppScript, Google Workspace)  
-- **End-to-end solution building** — from backend logic and automation workflows to dashboards and user-focused web interfaces.
-
-I love turning ideas into functioning systems that are fast, clean, scalable, and helpful.
+</div>
 
 ---
 
-## 📊 Featured Projects
+## 🏆 Highlights
 
-### 🔷 Data Analysis
-#### **HR Power BI Dashboard**  
-A Human Resources dashboard helping businesses gain **actionable workforce insights**.  
-**Tech:** Power BI • DAX • Data Visualization  
-
-#### **Student Performance Dashboard**  
-A student analytics dashboard to help schools understand and improve student outcomes.  
-**Tech:** Power BI • DAX • Data Visualization  
-
-#### **Marketing Data Analysis for Tourism**  
-A machine learning system that analyzes weekly news to generate **actionable marketing insights**.  
-**Tech:** Python • Scikit-learn • Pandas • ML  
-
-#### **Wave & Storm Tide Analysis**  
-Forecasts flooding risk and timing at Surfers Paradise using wave and tide threshold models.  
-**Tech:** Python • Pandas  
+| | |
+|---|---|
+| 🥇 **1st Place, QLD Adaptation Hackathon 2025** | Built a data-driven crop-cooling system for Queensland banana growers |
+| 🎓 **QUT Executive Dean's Commendation** | Perfect GPA for three semesters in a row |
+| 🏗️ **IT Manager & Web App Developer** | Ran internal platforms and led digital transformation, automation and data systems |
 
 ---
 
-## 🤖 Automation & AI
+## 🏝️ Welcome to Project Island
 
-### **AI Expenses Automation Demo**  
-Automatically classifies and organizes expense-related emails using **Gemini AI**, improving financial workflows.  
-**Tech:** AI • Gemini • AppScript • Google Sheets • Google Drive  
+My portfolio isn't a list. It's an island you can **explore**. More than 25 projects are spread across five regions. You can cycle around the island or take the guided tour.
 
-### **E-commerce Platform**  
-A full-featured e-commerce system with secure authentication and product management.  
-**Tech:** Python • Flask • Djingo • PostgreSQL • Supabase • Bootstrap  
+```
+        ~    ~     ~    ~     ~    ~     ~    ~     ~
+     ~     ___________________/\___________________     ~
+   ~      /        /\  MACHINE LEARNING PEAKS      \      ~
+  ~      /        /  \  3D scenes, image gen,       \      ~
+ ~      |        /    \ a tiny transformer           |      ~
+ ~      |-----------------------+--------------------|      ~
+ ~      |  DATA ANALYSIS VALLEY | AUTOMATION BAY     |      ~
+ ~      |  dashboards, the      | AI expenses,       |      ~
+ ~      |  hackathon winner     | booking forms      |      ~
+ ~      |-----------------------+--------------------|      ~
+  ~      \  INTEGRATION HARBOUR | WEB DEV BEACH     /      ~
+   ~      \  ERP sync, audits   | quizzes, AI apps /      ~
+     ~     \____________________|_________________/     ~
+        ~    ~     ~    ~     ~    ~     ~    ~     ~
+```
 
----
+<div align="center">
 
-## 🌐 Web Application Development
+### [⛵ Set sail → clayton-ma.vercel.app/island](https://clayton-ma.vercel.app/island)
 
-### **Online MCQ Platform**  
-Create and take MCQs with **real-time scoring and analytics**.  
-
-### **Scout Online Camping Platform**  
-A platform for scouts to organize, register, and manage camping events.  
-
-### **Predict HKDSE Grade**  
-ML-powered prediction tool for HKDSE exam grades based on user input.  
-
-### **Count Down Timer**  
-React-based countdown timer for events, exams, and productivity.  
-**Tech:** NextJS  
-
----
-
-## 🏗 Static Web Development
-
-### **School Anniversary Web Page**  
-Static website celebrating a school's anniversary with event info and multimedia content.  
-**Tech:** HTML • CSS • JavaScript  
-
-### **Digital Ceremony Programme**  
-A digital programme for ceremonies including schedules and guest information.  
-**Tech:** HTML • CSS • JavaScript  
+</div>
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 🗺️ Selected Projects
 
-**Frontend:**  
-- NextJS • ReactJS • JavaScript  
-- HTML • CSS • Responsive Design  
+<details open>
+<summary><b>📊 Data Analysis</b></summary>
+<br>
 
-**Backend / Full Stack:**  
-- Flask • SQL • PostgreSQL • Supabase  
+| Project | What it does | Tools |
+|---|---|---|
+| 🍌 [**Data-Driven Cooling for QLD Bananas**](https://clayton-ma.vercel.app/projects/adaptation-hackathon-2025) | **Hackathon winner.** Uses weather data to switch on existing farm sprinklers before heat stress hits | Data Analysis · Problem Solving |
+| 👥 [**HR Analytics Dashboard**](https://clayton-ma.vercel.app/projects/hr-dashboard) | Built from **497,000+** employee records across five databases | Power BI · DAX |
+| 📰 [**News Trends for Tourism Marketing**](https://clayton-ma.vercel.app/projects/marketing-analysis) | Groups weekly news into trending topics that marketers can act on | Python · Scikit-learn · Pandas |
 
-**Data & AI:**  
-- Python • R  
-- Scikit-learn • Pandas  
-- Power BI • DAX  
-- AI Automation (Gemini AI, AppScript)
+</details>
 
-**Other Skills:**  
-- Data Visualization  
-- Workflow Automation  
-- Operational Digital Transformation  
-- Microsoft Office Suite  
+<details>
+<summary><b>🤖 Machine Learning</b></summary>
+<br>
+
+| Project | What it does | Tools |
+|---|---|---|
+| 🥭 [**Mango Disease Detection**](https://clayton-ma.vercel.app/projects/fruit-disease-classification) | Computer vision research project at QUT that uses Vision Transformers to detect mango diseases in about 100 GB of plant photos | Vision Transformers · PyTorch · TensorFlow · Python |
+
+</details>
+
+<details>
+<summary><b>⚙️ Process Automation & Analytics</b></summary>
+<br>
+
+| Project | What it does | Tools |
+|---|---|---|
+| 🧾 [**Purchasing Process Delay Analysis**](https://clayton-ma.vercel.app/projects/process-mining-bpi2019) | Process mining of purchase-to-payment records to find where delays happen | Celonis · Disco · SAP Signavio |
+| 📄 [**Booking Form Automation**](https://clayton-ma.vercel.app/projects/booking-form-automation) | Reads PDF booking forms and pre-fills emails for staff to review | Python · Colab · VBA |
+| 💸 [**AI Expenses Automation**](https://clayton-ma.vercel.app/projects/ai-expenses-automation) | Turns short notes into categorised expense records | Gemini · Apps Script · Google Sheets |
+
+</details>
+
+<details>
+<summary><b>🔗 System Integration</b></summary>
+<br>
+
+| Project | What it does | Tools |
+|---|---|---|
+| 🛒 [**ERP ↔ Online Store Sync**](https://clayton-ma.vercel.app/projects/erp-shopify-inventory-sync) | Syncs stock, prices and photos for **20,000+** products to Shopify and Google Shopping | Shopify · Apps Script |
+| 🏢 [**Asset Audit & Data Consolidation**](https://clayton-ma.vercel.app/projects/space-asset-audit-pipeline) | Brings together space, finance and IT records for **500+** rooms across 2 campuses, with computer vision for audit photos | Python · Power BI · ML |
+
+</details>
+
+<details>
+<summary><b>🌐 Web Development</b></summary>
+<br>
+
+| Project | What it does | Tools |
+|---|---|---|
+| 🎮 [**Gamified AI Adoption Platform**](https://clayton-ma.vercel.app/projects/gamified-ai-adoption) | A rewards system and community that build employees' confidence with AI | Next.js · Vercel |
+| 🧠 [**AI Quiz Platform**](https://clayton-ma.vercel.app/projects/ai-quiz-platform) | AI drafts quiz questions and teachers approve them | React · React Native · MongoDB |
+
+</details>
+
+👉 **[See all projects](https://clayton-ma.vercel.app/projects)**
 
 ---
 
-## 💼 Experience
+## 🧰 Toolkit
 
-### **Web App Developer — Automation & Data Systems**  
-- Built internal platforms with a focus on automation and operational digital transformation  
-- Developed tools that streamline workflows across teams  
-- Delivered full-stack solutions integrating AI, analytics, and automation
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Celonis](https://img.shields.io/badge/Celonis-1A1A1A?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+
+</div>
 
 ---
 
-## 📬 Contact Me
+## 📬 Let's Talk
 
-I’m always open to new projects, creative ideas, collaborations, or opportunities.  
-Let’s connect!
+I'm open to **data science, machine learning and analytics** roles. The quickest way to reach me is on [LinkedIn](https://www.linkedin.com/in/claytonma/).
 
-🔗 LinkedIn: https://www.linkedin.com/in/claytonma/  
-🐙 GitHub: https://github.com/Clayton-Ma  
-📍 Australia  
+<div align="center">
 
----
+*Grab a map. The island's open.* 🏝️
+
+</div>
